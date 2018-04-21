@@ -2,6 +2,11 @@ CHANGES
 =======
 
 
+Version 2.4.1
+-------------
+- Fixed request parameters being ignored on Kodi 18 (Leia)
+
+
 Version 2.4.0
 -------------
 - Allow ints to be passed to plugin.url_for() and str() them.
